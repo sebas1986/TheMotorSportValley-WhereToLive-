@@ -1,5 +1,5 @@
 # Living in the MotorValley
-## Which is the best place for those who move to work in Ferrari?
+## Which is the best place to live for those who move to work in Ferrari?
 <br/><br/> 
-### Project description
+### Introduction
 Ferrari headquarter is in Maranello, a small town at about 18 km from Modena, with a population of 17,504 (as of 2017). It is known worldwide as the home of Ferrari and Scuderia Ferrari Formula One racing team. Several other towns surround Maranello, and Modena, with 184.000-ish inhabitants, is the closest and biggest town with Shopping Centers, University, nightlife and many other services that push most of the people, joining Ferrari, to look for a house. Obviously is difficult to find all the services that are present in Modena in any other small town that surround Maranello, but which are the main differences between all the towns? The aim of this project is to classify the Maranello and surrounding towns in terms of available services and venues to help people joining Ferrari to judge, with real numbers, which is the place that better suits his own requirements.
